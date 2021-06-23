@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Just the Class
+title: UCSB CS16
 nav_exclude: true
 seo:
   type: Course
-  name: Just the Class
+  name: UCSB CS16
 ---
 
 # {{ site.tagline }}
